@@ -6,7 +6,7 @@ This project presents an interactive crime dashboard analyzing Boston crime patt
 Rather than focusing solely on crime counts, the dashboard reveals when, where, and what types of crimes occur, helping stakeholders understand trends, allocate resources effectively, and improve community safety.
 
 The project emphasizes data-driven storytelling, combining time-based trends, geographic analysis, and interactive filters to support proactive decision-making.
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Project Goals
 
 Identify temporal crime patterns across years, months, and weekdays
@@ -18,7 +18,7 @@ Visualize geographic clustering of major crime types
 Enable interactive exploration for police officers and the public
 
 Support strategic planning and crime prevention efforts
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  Dashboard Narrative Structure
 
 The dashboard follows a top-down storytelling approach, guiding users from broad trends to localized insights:
@@ -32,7 +32,7 @@ Seasonal & Weekly Patterns – When crime peaks occur
 Geographic Clustering – Where major crimes concentrate
 
 This structure allows users to move from general patterns to specific action areas.
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  Key Visualizations & Insights
  Stacked Bar Chart: Year × Day of Week
 
@@ -81,7 +81,7 @@ The map highlights crime clustering across districts, supporting:
 Area-specific policing strategies
 
 Public safety interventions
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Community awareness and prevention programs
 
  Interactive Filters
@@ -103,7 +103,7 @@ City leaders to compare years and crime categories
 Community members to explore neighbourhood-level safety patterns
 
 The interactivity transforms the dashboard into a customizable, user-driven experience.
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  Visual Design & Gestalt Principles
 
 The dashboard applies key visual design and Gestalt principles to ensure clarity and usability:
@@ -119,7 +119,7 @@ Visual Hierarchy: Filters at the top; key trends flow left-to-right, top-to-bott
 Whitespace: Reduces clutter and improves readability
 
 These design choices enhance comprehension and decision-making efficiency.
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 What the Dashboard Reveals
 
 This dashboard demonstrates that crime in Boston follows identifiable patterns rather than occurring randomly:
@@ -136,7 +136,7 @@ Seasonal and weekday spikes highlight opportunities for targeted intervention
 
 For police officers, the dashboard supports strategic deployment and operational planning.
 For residents, it improves public awareness and community engagement.
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tools & Technologies
 
 R
@@ -148,7 +148,7 @@ Interactive dashboards
 Geospatial visualization
 
 Data storytelling and design principles
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Conclusion
 
 This project demonstrates how data visualization and storytelling can transform complex crime data into actionable insights. By combining temporal analysis, geographic mapping, and interactive filtering, the dashboard empowers law enforcement and communities to better understand crime dynamics and respond more effectively.

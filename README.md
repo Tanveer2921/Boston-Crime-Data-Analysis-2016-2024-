@@ -2,6 +2,7 @@ Boston Crime Patterns Dashboard (2016–2024)
 ________________________________________________________________________________________________________________________________________________________________________________________________________
  Project Overview
 This project presents an interactive crime dashboard analyzing Boston crime patterns from 2016 to 2024. The dashboard was designed as a storytelling and decision-support tool for:
+
   •	Law enforcement officers
   •	Public safety leaders
   •	Community members
